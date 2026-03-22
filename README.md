@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # no-hotdog-ai
 =======
 # React + TypeScript + Vite
